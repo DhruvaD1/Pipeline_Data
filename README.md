@@ -6,10 +6,6 @@ This project aims to create a pipeline for generating random user data.
 
 The Random User Pipeline project provides a systematic way to generate, process, and analyze random user data. The pipeline is designed to be modular and easily extendable.
 
-## Pipeline Diagram
-
-![Pipeline Diagram](./pipeline.png)
-
 ## Technologies Used
 
 - **Apache Airflow**: Used for orchestrating and scheduling the data pipeline.
